@@ -1,0 +1,4 @@
+[server]
+# Transformers uses lazy imports that Streamlit's module scanner can trigger.
+# Disable scanning to avoid importing unused vision/audio dependencies.
+fileWatcherType = "none"

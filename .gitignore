@@ -1,0 +1,9 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.cache/
+.DS_Store
+backups/
+web-scrapping/refresh-runs/
